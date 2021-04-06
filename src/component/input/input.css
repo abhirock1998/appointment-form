@@ -1,0 +1,16 @@
+.input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.input label {
+  font-size: 14px;
+}
+.input input,
+select {
+  padding: 7px;
+  outline: none;
+  border: none;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+}

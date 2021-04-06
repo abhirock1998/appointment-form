@@ -1,0 +1,9 @@
+.formWeek {
+  display: flex;
+  justify-content: space-between;
+}
+.forWeek__option {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
